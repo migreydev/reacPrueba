@@ -1,0 +1,8 @@
+{
+  "tasks": [
+    { "id": 1, "title": "Completar ejercicio de React", "completed": false },
+    { "id": 2, "title": "Estudiar para el examen de matemáticas", "completed": true },
+    { "id": 3, "title": "Hacer la compra", "completed": false }
+  ]
+}
+
